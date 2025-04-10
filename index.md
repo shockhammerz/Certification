@@ -13,7 +13,7 @@ title: "Vaibhav's Certifications"
       font-family: 'Segoe UI', sans-serif;
       background-color: #0b0c10;
       color: #f2f2f2;
-      background-image: url('https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/astronaut.gif');
+      background-image: url('https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif');
       background-size: 300px;
       background-repeat: no-repeat;
       background-position: right bottom;
